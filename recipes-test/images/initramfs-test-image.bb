@@ -14,6 +14,7 @@ PACKAGE_INSTALL += " \
     bootrr \
     dhcpcd \
     diag \
+    diag-router \
     dropbear \
     e2fsprogs \
     e2fsprogs-e2fsck \
