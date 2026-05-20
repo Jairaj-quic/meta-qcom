@@ -5,8 +5,8 @@ LIC_FILES_CHKSUM = "file://${UNPACKDIR}/usr/share/doc/diag/NO.LOGIN.BINARY.LICEN
 
 SRC_URI = "https://softwarecenter.qualcomm.com/nexus/generic/software/chip/component/core-technologies.qclinux.0.0/${PBT_BUILD_DATE}/prebuilt_yocto/diag_15.0.qcom+really${PV}_armv8a.tar.gz"
 
-PBT_BUILD_DATE = "251127"
-SRC_URI[sha256sum] = "e6780a404aaa89ffa7f20e659efae4f7b45beaeda8ca1fc05b5a1229ae648c49"
+PBT_BUILD_DATE = "260526"
+SRC_URI[sha256sum] = ""
 
 S = "${UNPACKDIR}"
 
